@@ -1,0 +1,132 @@
+*{margin: 0;
+padding: 0;}
+/* :root
+--background-color:(154,199,205); */
+h1{font-family:'Permanent Marker';
+font-size: 50pt;}
+h3{font-family:'Permanent Marker';
+font-size: 25pt;}
+
+@keyframes scaleImg{
+    0%{width: 40%;}
+    25%{width: 80%;}
+    50%{width: 20%;}
+    100%{width: 40%;}
+}
+.animate-img{
+    animation: scaleImg 10s;
+}
+.title{width:100vw;
+    height:100vh ;}
+#screen1{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;
+}
+
+#screen2{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen3{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen4{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen5{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen6{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen7{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen8{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen9{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen10{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen11{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen12{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen13{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen14{
+        width:100vw;
+        height:100vh ;
+        background-color: rgb(154, 199, 205);
+        text-align: center;}
+
+#screen15{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#screen16{
+    width:100vw;
+    height:100vh ;
+    background-color: rgb(154, 199, 205);
+    text-align: center;}
+
+#secret-text{
+    position: absolute;
+    top: 70%;
+    right: 33%;
+    width: 400px;
+    height: 200px;
+}
+
+    .zine{
+    width: 40vw;
+    margin-top: 0.5%;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+    
